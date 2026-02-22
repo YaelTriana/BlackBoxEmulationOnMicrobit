@@ -1,5 +1,6 @@
 # Micro:bit Vehicle Black Box Simulator
 Embedded Systems • Micro:bit • Python • Telemetry
+
 Educational embedded system that simulates a vehicle telemetry recorder using the BBC Micro:bit.
 
 ## Demo
